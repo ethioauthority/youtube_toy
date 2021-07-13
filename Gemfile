@@ -6,4 +6,4 @@ gem 'rubocop', '~> 0.51.0', require: false
 gem 'rest-client'
 gem 'date'
 gem 'csv'
-gem 'addressable', '~> 2.5.2'
+gem 'addressable', '~> 2.8.0'
