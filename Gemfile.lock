@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.0)
     byebug (10.0.2)
     csv (3.0.0)
@@ -20,7 +20,7 @@ GEM
     parser (2.5.3.0)
       ast (~> 2.4.0)
     powerpack (0.1.2)
-    public_suffix (3.0.3)
+    public_suffix (4.0.6)
     rainbow (2.2.2)
       rake
     rake (12.3.1)
@@ -45,7 +45,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  addressable (~> 2.5.2)
+  addressable (~> 2.8.0)
   byebug
   csv
   date
